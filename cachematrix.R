@@ -38,4 +38,4 @@ cacheSolve <- function(x, ...) {
 ## cacheSolve(x)
 ## cacheSolve(x)
 
-## first time computes the inverse, second time reads it from cache
+## first instance of cacheSolve(x) computes the inverse, second instance reads it from cache
